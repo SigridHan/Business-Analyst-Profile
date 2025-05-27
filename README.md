@@ -1,4 +1,4 @@
-# Business-Analyst-Profile
+# Data-Analyst-Profile
 
 ## About
 Hi, I am Sigrid! I am a recent graduate with a Master's degree in Business Analytics from Washington University in St. Louis. I have over two years of hands-on experience in data analytics, reporting, and data visualization across diverse industries, including inofrmation technology, consulting, e-commerce. I'm excited to leverage my expertise to drive innovation, create business value, and contribute to success through data analytics.
